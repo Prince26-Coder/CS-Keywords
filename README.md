@@ -10,14 +10,16 @@ Computation is driven by the CPU (Central Processing Unit), GPU (Graphics Proces
 Hardware includes the physical components that make up a computer system. From the memory (RAM) and storage devices to semiconductors that drive the computational logic, hardware plays a vital role in computing.
 
 **<h1>Storage**</h1>
-
+<img src="https://github.com/user-attachments/assets/b649790a-fa22-4f53-9d8d-c2f0d861a6bb"><br>
 In computer science, storage is the process of capturing and preserving digital information on storage media. Storage can be used in many places, including offices, data centers, remote locations, and mobile devices. 
 
 **<h1>Fullstack Development**</h1>:
+<img src="https://github.com/user-attachments/assets/29ab55c1-79d8-411c-8010-e9781bd6dde7">
 
 A Fullstack developer is proficient in both frontend and backend technologies. This combined skill set allows developers to create fully integrated web applications.
 
 **<h1>Networking**</h1>:
+<img src="https://github.com/user-attachments/assets/2d508f92-919c-4824-b0dc-94a75ce15c49">
 
 #3.1 Local area network (LAN):
 A LAN covers a small geographic area suvh as a home, office or campus.
